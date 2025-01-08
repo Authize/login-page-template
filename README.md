@@ -79,6 +79,5 @@ If you need help with deployment on GitHub Pages, here are the general steps:
 3. Scroll down to the **GitHub Pages** section.
 4. Choose the **main branch** as the source and save.
 5. Your site will be live at `https://your-username.github.io/repository-name`.
-```
 
 ---
