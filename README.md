@@ -71,6 +71,7 @@ login-animation/
 ├── style.css          # Styling for both pages
 ├── successful.css     # Styling for login page
 ├── successful.html    # Successful login page
+├── LICENSE.txt        # MIT License
 └── README.md          # Project documentation
 ```
 ---
