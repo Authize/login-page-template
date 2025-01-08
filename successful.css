@@ -1,0 +1,78 @@
+/* Global reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Background and Success Container */
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f4f7fa;
+}
+
+.success-container {
+    background: #fff;
+    padding: 40px 50px;
+    border-radius: 10px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 100%;
+    max-width: 450px;
+    animation: fadeIn 1s ease-out;
+}
+
+/* Heading */
+h2 {
+    color: #333;
+    font-size: 36px;
+}
+
+h2 span {
+    color: #007BFF;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+/* Button */
+.btn {
+    padding: 12px 30px;
+    background-color: #007BFF;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+    transform: translateY(-3px);
+}
+
+/* Animation for success container */
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+    .success-container {
+        padding: 30px 35px;
+    }
+
+    h2 {
+        font-size: 28px;
+    }
+}
