@@ -1,9 +1,3 @@
-# Login System with Animated UI and GitHub Authentication
-
-A modern, responsive login page with a sleek design, animations, and a successful login page that displays the user's name. It includes smooth transitions, dynamic background, and user-focused UI components.
-
-[**Live Demo**](https://your-demo-link.com)
-
 ## Description
 
 This project features a **modern, responsive login page** with smooth animations and a visually appealing design. It allows users to log in and dynamically see their username on a **successful login page**. The design includes:
