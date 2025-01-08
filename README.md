@@ -66,9 +66,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 login-animation/
 ├── index.html         # Login page
-├── successful.html    # Successful login page
-├── style.css          # Styling for both pages
+├── mit.html           # MIT License page
 ├── script.js          # JavaScript for form validation and redirection
+├── style.css          # Styling for both pages
+├── successful.css     # Styling for login page
+├── successful.html    # Successful login page
 └── README.md          # Project documentation
 ```
 ---
