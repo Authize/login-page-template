@@ -31,15 +31,13 @@ You can see the project in action by visiting the following link:
 
 [**Live Demo**](https://login-jets.vercel.app)
 
-> **Note**: Replace the demo link with the actual URL of your hosted project.
-
 ## Installation Instructions
 
 To run this project locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/login-animation.git
+   git clone https://github.com/Authize/login-page-template.git
    ```
 
 2. Navigate to the project directory:
