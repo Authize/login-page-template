@@ -25,6 +25,10 @@ This project can serve as a template for websites that need a user login page wi
 - **CSS**: Styling, animations, and responsive layout.
 - **JavaScript**: Form handling, dynamic content display, and redirection.
 
+## TODO
+
+- **Responsive Design**: Responsive style for all devices everything will be centered.
+  
 ## Live Demo
 
 You can see the project in action by visiting the following link:
