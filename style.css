@@ -143,6 +143,24 @@ h2 {
     text-decoration: underline;
 }
 
+/* Forgot password link */
+.license-page {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.license-page a {
+    color: #007BFF;
+    text-decoration: none;
+    font-size: 14px;
+    transition: color 0.3s ease;
+}
+
+.license-page a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+}
+
 /* Responsive Design */
 @media screen and (max-width: 768px) {
     .login-container {
