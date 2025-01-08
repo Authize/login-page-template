@@ -71,17 +71,4 @@ login-animation/
 ├── script.js          # JavaScript for form validation and redirection
 └── README.md          # Project documentation
 ```
-
-## Demo Instructions
-
-Once you deploy the project (e.g., on GitHub Pages or other platforms), you can replace `https://your-demo-link.com` with the actual link to the live demo.
-
-If you need help with deployment on GitHub Pages, here are the general steps:
-
-1. Push your project to a GitHub repository.
-2. Go to the "Settings" tab of the repository.
-3. Scroll down to the **GitHub Pages** section.
-4. Choose the **main branch** as the source and save.
-5. Your site will be live at `https://your-username.github.io/repository-name`.
-
 ---
