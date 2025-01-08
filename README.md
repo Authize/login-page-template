@@ -1,6 +1,3 @@
-Here is the **GitHub markdown** description formatted for you to copy directly into your `README.md` file:
-
-```markdown
 # Login System with Animated UI and GitHub Authentication
 
 A modern, responsive login page with a sleek design, animations, and a successful login page that displays the user's name. It includes smooth transitions, dynamic background, and user-focused UI components.
